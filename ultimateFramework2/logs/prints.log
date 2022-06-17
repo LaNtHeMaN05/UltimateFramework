@@ -1,0 +1,106 @@
+[INFO ] 2022-06-15 21:42:39.648 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-15 21:42:40.809 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-15 21:42:41.448 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-15 22:44:27.502 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-15 22:44:28.521 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-15 22:44:29.715 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-15 22:51:10.583 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-15 22:51:11.445 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-15 22:51:13.524 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-15 22:51:13.821 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-15 22:53:19.178 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-15 22:53:20.432 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-15 22:53:21.409 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-15 22:53:22.067 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-15 22:53:36.859 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-15 22:53:38.268 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-15 22:53:41.103 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 12:15:55.430 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-16 12:15:56.690 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-16 12:15:57.183 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-16 12:15:57.466 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 12:17:12.860 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 12:17:31.405 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 12:17:46.952 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 12:18:01.031 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 12:18:02.553 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 12:18:05.327 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 12:18:59.599 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-16 12:19:00.684 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-16 12:19:01.952 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-16 12:19:02.200 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 12:19:56.405 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-16 12:19:57.409 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-16 12:19:58.498 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-16 12:19:58.778 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 12:20:08.588 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 12:20:10.093 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 12:20:12.881 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 12:24:21.442 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-16 12:24:22.448 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-16 12:24:23.451 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-16 12:24:23.697 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 12:24:28.456 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 12:24:29.921 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 12:25:01.508 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-16 12:25:02.830 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-16 12:25:03.131 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-16 12:25:03.411 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 12:25:13.272 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 12:25:14.714 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 12:25:17.524 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 14:32:27.175 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:32:37.134 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 14:32:38.627 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 14:32:41.391 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 14:37:47.280 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:38:12.955 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:38:22.751 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 14:38:24.300 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 14:38:27.077 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 14:39:21.758 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:40:18.177 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:40:49.554 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:41:27.078 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:41:52.749 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:42:40.000 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:43:28.405 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:43:41.323 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:46:03.079 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:50:01.229 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:51:29.240 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 14:52:04.560 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 16:52:06.528 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 16:53:00.286 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 16:56:31.273 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 16:59:53.826 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 17:00:17.326 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 17:06:27.789 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 17:06:37.395 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 17:06:38.784 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 17:06:41.640 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 17:07:10.212 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 17:07:19.004 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 17:07:20.654 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 17:07:23.469 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 17:12:02.442 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 17:15:20.035 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 17:15:39.643 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 17:15:49.488 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 17:15:50.907 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 17:15:53.726 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 17:19:46.688 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 17:19:55.307 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 17:19:56.799 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 17:19:59.603 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 17:22:01.826 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 17:22:09.998 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 17:22:11.574 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 17:22:14.556 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-16 19:51:47.477 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-16 19:51:48.393 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-16 19:51:49.107 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-16 19:51:49.427 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-16 19:51:59.742 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-16 19:52:01.981 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-16 19:52:05.040 [main] MobileAuto1 - Appium Test completed
