@@ -18,6 +18,7 @@ public class WebBaseClass {
 	
 	public String directoryPath = System.getProperty("user.dir");
 	public String webAutomationUrl;
+	public String naveenAutoUrl;
 	public String browser;
 	public FileInputStream fis;
 	public Properties prop;
@@ -31,9 +32,11 @@ public class WebBaseClass {
 		prop.load(fis);
 		browser=prop.getProperty("browser");
 		webAutomationUrl=prop.getProperty("url");
+		naveenAutoUrl=prop.getProperty("shopUrl");
 		
 		System.out.println(browser);
 		System.out.println(webAutomationUrl);
+		System.out.println(naveenAutoUrl);
 		
 		if(browser.equalsIgnoreCase("chrome"))
 			driver=WebDriverManager.chromedriver().create();		

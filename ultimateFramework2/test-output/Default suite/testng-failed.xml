@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="mobileAutoTest.MobileAuto1">
+      <class name="webAutomation.naveenAutomationLabsTest">
         <methods>
-          <include name="Testing1"/>
+          <include name="nalTest1"/>
+          <include name="driverIn"/>
         </methods>
-      </class> <!-- mobileAutoTest.MobileAuto1 -->
+      </class> <!-- webAutomation.naveenAutomationLabsTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
