@@ -35,23 +35,23 @@ public class Listners extends WebBaseClass implements ITestListener {
 		String methodName=result.getMethod().getMethodName();
 		System.out.println(methodName);
 		et.get().log(Status.PASS, "Test Passed Successfully");
-		if(methodName.equalsIgnoreCase("WAT1")) {
-		try {
-			driver=(WebDriver) result.getTestClass().getRealClass().getDeclaredField("driver").get(result.getInstance());
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} 
-		try {
-			et.get().addScreenCaptureFromPath(webTakeScreenshot(methodName,driver),result.getMethod().getMethodName());
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		}
-		else if (methodName.equalsIgnoreCase("Testing1")) {
+		if (methodName.equalsIgnoreCase("Testing1")) {
 			try {
 				et.get().addScreenCaptureFromPath(mbc.mobileTakeScreenshot(methodName),result.getMethod().getMethodName());
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		else {
+			try {
+				driver=(WebDriver) result.getTestClass().getRealClass().getDeclaredField("driver").get(result.getInstance());
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} 
+			try {
+				et.get().addScreenCaptureFromPath(webTakeScreenshot(methodName,driver),result.getMethod().getMethodName());
 			} catch (IOException e) {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
@@ -62,6 +62,32 @@ public class Listners extends WebBaseClass implements ITestListener {
 
 
 	public void onTestFailure(ITestResult result) {
+		String methodName=result.getMethod().getMethodName();
+		System.out.println(methodName);
+		et.get().fail(result.getThrowable());
+		if (methodName.equalsIgnoreCase("Testing1")) {
+			try {
+				et.get().addScreenCaptureFromPath(mbc.mobileTakeScreenshot(methodName),result.getMethod().getMethodName());
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		else {
+			try {
+				driver=(WebDriver) result.getTestClass().getRealClass().getDeclaredField("driver").get(result.getInstance());
+			} catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			} 
+			try {
+				et.get().addScreenCaptureFromPath(webTakeScreenshot(methodName,driver),result.getMethod().getMethodName());
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+
 		
 	}
 

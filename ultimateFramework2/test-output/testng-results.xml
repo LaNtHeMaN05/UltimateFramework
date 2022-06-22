@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-06-20T17:21:53 IST" name="Default suite" finished-at="2022-06-20T17:22:02 IST" duration-ms="8204">
+  <suite started-at="2022-06-22T17:12:57 IST" name="Suite" finished-at="2022-06-22T17:13:27 IST" duration-ms="30058">
     <groups>
     </groups>
-    <test started-at="2022-06-20T17:21:53 IST" name="Default test" finished-at="2022-06-20T17:22:02 IST" duration-ms="8204">
+    <test started-at="2022-06-22T17:12:57 IST" name="Test" finished-at="2022-06-22T17:13:27 IST" duration-ms="30058">
+      <class name="mobileAutoTest.MobileAuto1">
+        <test-method signature="Testing1()[pri:0, instance:mobileAutoTest.MobileAuto1@6134ac4a]" started-at="2022-06-22T17:12:59 IST" name="Testing1" finished-at="2022-06-22T17:13:18 IST" duration-ms="19066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testing1 -->
+      </class> <!-- mobileAutoTest.MobileAuto1 -->
+      <class name="webAutomation.WebAutoTest1">
+        <test-method is-config="true" signature="driverStart()[pri:0, instance:webAutomation.WebAutoTest1@23c650a3]" started-at="2022-06-22T17:12:57 IST" name="driverStart" finished-at="2022-06-22T17:12:58 IST" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverStart -->
+        <test-method signature="WAT1()[pri:0, instance:webAutomation.WebAutoTest1@23c650a3]" started-at="2022-06-22T17:13:19 IST" name="WAT1" finished-at="2022-06-22T17:13:20 IST" duration-ms="1279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WAT1 -->
+      </class> <!-- webAutomation.WebAutoTest1 -->
       <class name="webAutomation.naveenAutomationLabsTest">
-        <test-method is-config="true" signature="driverIn()[pri:0, instance:webAutomation.naveenAutomationLabsTest@2d10e0b1]" started-at="2022-06-20T17:21:53 IST" name="driverIn" finished-at="2022-06-20T17:21:55 IST" duration-ms="1278" status="PASS">
+        <test-method is-config="true" signature="driverIn()[pri:0, instance:webAutomation.naveenAutomationLabsTest@742d4e15]" started-at="2022-06-22T17:12:58 IST" name="driverIn" finished-at="2022-06-22T17:12:59 IST" duration-ms="699" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- driverIn -->
-        <test-method signature="nalTest1()[pri:0, instance:webAutomation.naveenAutomationLabsTest@2d10e0b1]" started-at="2022-06-20T17:21:55 IST" name="nalTest1" finished-at="2022-06-20T17:22:02 IST" duration-ms="6912" status="PASS">
+        <test-method signature="nalTest1()[pri:0, instance:webAutomation.naveenAutomationLabsTest@742d4e15]" started-at="2022-06-22T17:13:20 IST" name="nalTest1" finished-at="2022-06-22T17:13:27 IST" duration-ms="6755" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- nalTest1 -->
       </class> <!-- webAutomation.naveenAutomationLabsTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
