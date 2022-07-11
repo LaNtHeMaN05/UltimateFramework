@@ -7,6 +7,7 @@
   <test name="Test">
     <classes>
       <class name="mobileAutoTest.MobileAuto1"/>
+      <class name="webAutomation.WebAutoTest1" />
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

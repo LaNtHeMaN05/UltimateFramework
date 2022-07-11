@@ -4,6 +4,8 @@ import java.io.IOException;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import io.appium.java_client.AppiumDriver;
@@ -17,15 +19,14 @@ public class MobileAuto1 extends MobileBaseClass {
 	public AppiumDriver driver;
 	Logger log=LogManager.getLogger(MobileAuto1.class.getName());
 	
-//	@BeforeTest
-//	public void killAllNodes() throws IOException, InterruptedException {
-//		killNodes();
-//	}
-//	
+	@BeforeTest
+	public void serverStart() throws IOException, InterruptedException {
+		startServer();
+		Thread.sleep(2000);
+	}
+	
 	@Test
 	public void Testing1() throws InterruptedException, IOException {
-//		service=startServer();
-//		Thread.sleep(5);
 		startEmulator();
 		log.info("Emulator Started");
 		Thread.sleep(5);
@@ -49,9 +50,9 @@ public class MobileAuto1 extends MobileBaseClass {
 
 	}
 	
-//	@AfterTest
-//	public void close() {
-//		service.close();
-//	}
+	@AfterTest
+	public void close() {
+		stopServer();
+	}
 
 }

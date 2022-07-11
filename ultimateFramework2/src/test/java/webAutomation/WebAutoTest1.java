@@ -19,6 +19,7 @@ public class WebAutoTest1 extends WebBaseClass {
 	public void driverStart() throws IOException {
 		driver=WebdriverStart();
 		log.info("Driver and Logs initiated");
+
 	}
 	
 	@Test

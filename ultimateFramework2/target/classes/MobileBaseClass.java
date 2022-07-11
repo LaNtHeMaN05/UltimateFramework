@@ -36,17 +36,15 @@ public class MobileBaseClass {
 	public FileInputStream fis;
 	public Properties prop;
 
-	public AppiumDriverLocalService startServer() {
-
-		boolean flag = checkIfServerIsRunnning(4723);
-
-		if (!flag) {
-
-			service = AppiumDriverLocalService.buildDefaultService();
-			service.start();
-			
-		}
-		return service;
+	@SuppressWarnings("deprecation")
+	public void startServer() {
+	    Runtime runtime = Runtime.getRuntime();
+	    try {
+	        runtime.exec("cmd.exe /c start cmd.exe /k \"appium -a 127.0.0.1 -p 4723 --session-override -dc \"{\"\"noReset\"\": \"\"false\"\"}\"\"");
+	        Thread.sleep(10000);
+	    } catch (IOException | InterruptedException e) {
+	        e.printStackTrace();
+	    }
 	}
 
 	public static boolean checkIfServerIsRunnning(int port) {
@@ -74,13 +72,14 @@ public class MobileBaseClass {
 	}
 	
 	@SuppressWarnings("deprecation")
-	public void killNodes() throws IOException, InterruptedException {
-		
-//		pb=new ProcessBuilder(userDir+"\\src\\main\\java\\resources\\killNode.bat");
-//		pb.start();
-		Runtime.getRuntime().exec("cmd /c start killNode.bat");
-		Thread.sleep(3);
-		
+	public void stopServer() {
+	    Runtime runtime = Runtime.getRuntime();
+	    try {
+	        runtime.exec("taskkill /F /IM node.exe");
+	        runtime.exec("taskkill /F /IM cmd.exe");
+	    } catch (IOException e) {
+	        e.printStackTrace();
+	    }
 	}
 	
 	public AppiumDriver mobileWebDriverStart(String appN) throws IOException {

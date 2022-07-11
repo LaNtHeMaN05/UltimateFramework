@@ -177,3 +177,56 @@
 [INFO ] 2022-06-22 17:14:09.996 [main] WebAutoTest1 - Launching the website
 [INFO ] 2022-06-22 17:14:11.447 [main] WebAutoTest1 - TestCompleted
 [INFO ] 2022-06-22 17:14:21.518 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-06-22 17:22:39.052 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-22 17:22:40.185 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-06-22 17:22:40.205 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-22 17:22:50.002 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-22 17:22:51.542 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-22 17:22:54.750 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-22 17:22:56.556 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-22 17:22:57.486 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-22 17:23:01.411 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-06-28 22:27:47.876 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-28 22:27:48.614 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-06-28 22:27:48.640 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-28 22:37:43.631 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-28 22:38:38.229 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-28 22:38:46.715 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-28 22:38:48.302 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-28 22:38:52.188 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-28 22:39:14.285 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-28 22:39:21.267 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-28 22:39:22.899 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-28 22:39:26.582 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-28 22:41:02.777 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-06-28 22:41:03.476 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-06-28 22:41:03.501 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-06-28 22:41:08.907 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-06-28 22:41:10.438 [main] MobileAuto1 - App Launched
+[INFO ] 2022-06-28 22:41:13.520 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-06-28 22:41:15.037 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-06-28 22:41:15.996 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-06-28 22:41:20.387 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-11 12:41:23.289 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-11 12:42:05.868 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-11 12:44:31.955 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-11 12:45:28.117 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-11 12:46:17.215 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-11 12:46:25.645 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-07-11 12:46:27.064 [main] MobileAuto1 - App Launched
+[INFO ] 2022-07-11 12:46:29.946 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-07-11 12:48:08.833 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-11 12:48:16.697 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-07-11 12:48:18.270 [main] MobileAuto1 - App Launched
+[INFO ] 2022-07-11 12:48:21.958 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-07-11 12:58:05.128 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-11 12:58:10.227 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-11 12:58:37.802 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-07-11 12:58:38.502 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-11 12:58:38.524 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-11 12:58:46.536 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-07-11 12:58:48.080 [main] MobileAuto1 - App Launched
+[INFO ] 2022-07-11 12:58:51.707 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-07-11 12:58:53.037 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-07-11 12:58:53.670 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-07-11 12:58:56.438 [main] naveenAutomationLabsTest - Naveen Automation labs launched
