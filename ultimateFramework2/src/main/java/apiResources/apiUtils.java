@@ -20,38 +20,42 @@ public class apiUtils {
 	ResponseSpecification resSpec;
 	public static PrintStream log;
 	public String directoryPath2 = System.getProperty("user.dir");
-	
-	
-	
-	public RequestSpecification requestSpecification()  {
+	public static int count=0;
+
+	public RequestSpecification requestSpecification() {
 		FileInputStream fis2 = null;
 		try {
-			fis2 = new FileInputStream(directoryPath2+"\\src\\main\\java\\data.properties");
+			fis2 = new FileInputStream(directoryPath2 + "\\src\\main\\java\\data.properties");
 		} catch (FileNotFoundException e2) {
 			// TODO Auto-generated catch block
 			e2.printStackTrace();
 		}
-		Properties prop2=new Properties();
+		Properties prop2 = new Properties();
 		try {
 			prop2.load(fis2);
 		} catch (IOException e1) {
 			// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
-		String apiUri=prop2.getProperty("apiUri");
+		String apiUri = prop2.getProperty("apiUri");
 		try {
-			log = new PrintStream(new FileOutputStream("apiLogs.txt"));
+			log = new PrintStream(new FileOutputStream("apiLogs.txt",true));
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
-		reqSpec = new RequestSpecBuilder().setBaseUri(apiUri).setContentType(ContentType.JSON)
-				.addQueryParam("key", "qaclick123")
-				.addFilter(RequestLoggingFilter.logRequestTo(log))
-				.addFilter(ResponseLoggingFilter.logResponseTo(log)).build();
-
-		return reqSpec;
+//		if (reqSpec == null) {
+//			count++;
+			reqSpec = new RequestSpecBuilder().setBaseUri(apiUri).setContentType(ContentType.JSON)
+					.addQueryParam("key", "qaclick123").addFilter(RequestLoggingFilter.logRequestTo(log))
+					.addFilter(ResponseLoggingFilter.logResponseTo(log)).build();
+			
+//			System.out.println(count);
+			return reqSpec;
+			
+//		}
+//		return reqSpec;
 
 	}
 

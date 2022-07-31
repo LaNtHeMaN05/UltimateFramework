@@ -8,14 +8,14 @@ import pojo.location;
 
 public class ApiDataBuilds {
 	
-	public PostAddress addPlacePayload() {
+	public PostAddress addPlacePayload(String name, String language, String address) {
 		PostAddress pa=new PostAddress();
 		pa.setAccuracy(50);
-		pa.setAddress("LONDON");
-		pa.setName("LTM House in London");
+		pa.setAddress(address);
+		pa.setName(name);
 		pa.setPhone_number("1231231");
 		pa.setWebsite("www.ltmhouse.com");
-		pa.setLanguage("English");
+		pa.setLanguage(language);
 		
 		List<String> myList=new ArrayList<>();
 		myList.add("Ferrari");

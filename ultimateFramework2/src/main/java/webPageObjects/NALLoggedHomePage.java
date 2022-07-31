@@ -21,7 +21,8 @@ public class NALLoggedHomePage {
 	@FindBy(xpath = "//i[@class='fa fa-check-circle']")
 	private WebElement successMsg;
 	
-	
+	@FindBy(xpath ="//ul/li/a/span[contains(text(),'Wish List')]")
+	private WebElement wishListBtn;
 	
 	public NALLoggedHomePage(WebDriver driver) {
 		this.driver=driver;
@@ -38,6 +39,10 @@ public class NALLoggedHomePage {
 	
 	public WebElement successMsgElement() {
 		return successMsg;
+	}
+	
+	public WebElement wishListBtnClick() {
+		return wishListBtn;
 	}
 
 }

@@ -9,7 +9,7 @@
 			<class name="mobileAutoTest.MobileAuto1" />
 			<class name="webAutomation.WebAutoTest1" />
 			<class name="webAutomation.naveenAutomationLabsTest"></class>
-
+			<class name="cucumber.Options.TestRunner"></class>
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

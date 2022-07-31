@@ -239,3 +239,71 @@
 [INFO ] 2022-07-27 21:17:08.369 [main] WebAutoTest1 - Launching the website
 [INFO ] 2022-07-27 21:17:08.796 [main] WebAutoTest1 - TestCompleted
 [INFO ] 2022-07-27 21:17:12.041 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-29 18:18:54.396 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-07-29 18:18:55.093 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-29 18:18:55.116 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-29 18:20:14.776 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-07-29 18:20:15.481 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-29 18:20:15.505 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-29 18:20:25.286 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-07-29 18:20:27.005 [main] MobileAuto1 - App Launched
+[INFO ] 2022-07-29 18:20:30.137 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-07-29 18:20:32.113 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-07-29 18:20:33.573 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-07-29 18:20:36.973 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-29 23:19:27.155 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-07-29 23:19:28.295 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-29 23:19:28.316 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-29 23:19:42.094 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-07-29 23:19:43.745 [main] MobileAuto1 - App Launched
+[INFO ] 2022-07-29 23:19:46.874 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-07-29 23:19:48.406 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-07-29 23:19:49.123 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-07-29 23:19:53.579 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-29 23:33:13.042 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-29 23:33:17.126 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-29 23:34:04.750 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-29 23:34:09.528 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-29 23:34:28.813 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-29 23:34:33.066 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-29 23:35:28.860 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-29 23:35:33.342 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-30 12:30:17.812 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-07-30 12:30:18.942 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-30 12:30:18.961 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-30 12:30:30.650 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-07-30 12:30:32.253 [main] MobileAuto1 - App Launched
+[INFO ] 2022-07-30 12:30:35.932 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-07-30 12:30:36.970 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-07-30 12:30:37.545 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-07-30 12:30:41.750 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-30 12:32:47.617 [main] WebAutoTest1 - Driver and Logs initiated
+[INFO ] 2022-07-30 12:32:48.754 [main] naveenAutomationLabsTest - Driver initiated
+[INFO ] 2022-07-30 12:32:48.776 [main] MobileAuto1 - Emulator Started
+[INFO ] 2022-07-30 12:32:57.339 [main] MobileAuto1 - Mobile Driver Initiated
+[INFO ] 2022-07-30 12:32:58.793 [main] MobileAuto1 - App Launched
+[INFO ] 2022-07-30 12:33:02.899 [main] MobileAuto1 - Appium Test completed
+[INFO ] 2022-07-30 12:33:04.801 [main] WebAutoTest1 - Launching the website
+[INFO ] 2022-07-30 12:33:05.217 [main] WebAutoTest1 - TestCompleted
+[INFO ] 2022-07-30 12:33:08.867 [main] naveenAutomationLabsTest - Naveen Automation labs launched
+[INFO ] 2022-07-30 21:55:15.502 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 21:56:44.982 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 21:58:30.525 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:03:02.460 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:06:27.985 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:23:31.826 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:25:31.135 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:30:43.432 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:31:23.135 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:32:48.463 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:35:30.606 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:38:44.109 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:39:38.962 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:40:25.737 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:41:22.572 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:42:41.256 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-30 22:45:42.652 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-31 11:55:20.498 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-31 11:56:37.252 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-31 12:02:06.007 [main] NaveenAutoWishListTest - Driver Initialized
+[INFO ] 2022-07-31 12:02:30.464 [main] NaveenAutoWishListTest - Driver Initialized
